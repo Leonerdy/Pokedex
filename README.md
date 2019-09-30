@@ -21,16 +21,16 @@ Simple PokeDex WEB API by using .Net Core with Swagger, Newtonsoft.json, Entity 
 - Run the application and it will open on:
   `http://localhost:63850/`
 
-![Alt Text](/Docs/swagger.PNG)
+![Alt Text](/Docs/swagger.png)
 
 ## Structure
 
 - Solution:
 
-![Alt Text](/Docs/structure.PNG)
+![Alt Text](/Docs/structure.png)
 
 ## Json API
 
-![Alt Text](/Docs/api.PNG)
+![Alt Text](/Docs/api.png)
 
 
