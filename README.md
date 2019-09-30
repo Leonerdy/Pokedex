@@ -33,4 +33,12 @@ Simple PokeDex WEB API by using .Net Core with Swagger, Newtonsoft.json, Entity 
 
 ![Alt Text](/Docs/api.png)
 
+## Author
+
+Formado em Engenharia da Computação e pós-graduado em Banco de dados.
+
+My Site : http://www.leonardev.com/
+
+Linkedin: https://www.linkedin.com/in/anselmo-silva-100b5826/
+
 
