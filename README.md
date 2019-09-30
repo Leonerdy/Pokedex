@@ -33,6 +33,14 @@ Simple PokeDex WEB API by using .Net Core with Swagger, Newtonsoft.json, Entity 
 
 ![Alt Text](/Docs/api.png)
 
+## TO DO
+
+- Implementar Repository Pattern
+- Implementar Logging 
+- Melhorar put e delete http verbs.
+- Melhorias da API com novas propriedades e relacionamentos
+- Implementar DDD (Domain Driven Design).
+
 ## Author
 
 Formado em Engenharia da Computação e pós-graduado em Banco de dados.
